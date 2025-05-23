@@ -1,10 +1,9 @@
 <h1 align="center">Wangsap, I'm Bim</h1>
 <h3 align="center">A boy who love code</h3>
 
-- 🔭 I use **Arch**
+- 🔭 I use **Arch** BTW
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
