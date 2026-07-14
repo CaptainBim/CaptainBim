@@ -65,7 +65,7 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🐧 Operating System
+### 🐧 COPIUM
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
