@@ -23,10 +23,12 @@
 
 ### 🎮 Game Development
 
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💻 Programming
@@ -41,12 +43,13 @@
 <tr>
 <td valign="top">
 
-### 🗄 Database
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </td>
+
 <td valign="top">
 
 ### 🎨 Design
@@ -54,6 +57,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Vegas Pro](https://img.shields.io/badge/Vegas_Pro-1E88E5?style=for-the-badge)
 
 </td>
 </tr>
@@ -61,10 +65,19 @@
 <tr>
 <td colspan="2" align="center">
 
-### ⚙️ Environment
+### 🐧 Operating System
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </td>
 </tr>
